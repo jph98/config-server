@@ -1,2 +1,8 @@
-# config-server
-Config Server Scratch Project
+config-server
+-------------
+
+GroupId: com.froyo
+
+ArtifactId: config-server
+
+Version: 1.0-SNAPSHOT
