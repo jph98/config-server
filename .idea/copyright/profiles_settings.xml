@@ -1,5 +1,5 @@
-<com.froyoponent name="CopyrightManager">
+<component name="CopyrightManager">
   <settings default="">
     <module2copyright />
   </settings>
-</com.froyoponent>
+</component>
